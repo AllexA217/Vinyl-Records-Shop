@@ -1,1 +1,1 @@
-# Vinyl-Records-Shoper
+# Vinyl-Records-Shop
